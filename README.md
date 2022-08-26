@@ -49,13 +49,21 @@
 </div>
 <br>
 
+---
+
 <div align="center"> <img src="https://metrics.lecoq.io/xusenlinzy?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
+---
 
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=xusenlinzy&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
 
+---
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xusenlinzy&show_icons=true&theme=tokyonight")</div>
+
+---
 
 <!-- GitHub Activity Graph -->
 <table align="center">
