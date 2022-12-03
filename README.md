@@ -8,8 +8,8 @@
   
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/xusenlinzy/deepnlp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusenlinzy&repo=deepnlp&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="[https://github.com/xusenlinzy/deepnlp](https://github.com/xusenlinzy/lightningblocks)">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusenlinzy&repo=lightningblocks&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 正在学习: 
